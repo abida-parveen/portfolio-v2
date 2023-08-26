@@ -1,11 +1,13 @@
 {
-  "name": "najam-porfolio-v2",
+  "name": "abida-porfolio-v2",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://abida-parveen.github.io/portfolio-v2/",
   "scripts": {
     "dev": "node server.js",
     "build": "next build",
-    "start": "NODE_ENV=production node server.js"
+    "start": "NODE_ENV=production node server.js",
+    "deploy": "gh-pages -d out"
   },
   "dependencies": {
     "@svgr/webpack": "^6.5.1",
