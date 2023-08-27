@@ -1,0 +1,12 @@
+# Ignore node_modules directory
+node_modules/
+
+# Ignore build artifacts
+.next/
+out/
+
+# Ignore the helper methods
+helper/
+
+# Ignore environment variables file
+.env
