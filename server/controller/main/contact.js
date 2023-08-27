@@ -7,8 +7,8 @@ var transport = {
   host: "smtp.zoho.com", // Don’t forget to replace with the SMTP host of your provider
   port: 587, //465, //587,
   auth: {
-    user: "abroabida@zohomail.com",
-    pass: "E3jJLbR8a50a",
+    user: process.env.NODEMAILER_USER,
+    pass: process.env.NODEMAILER_PASS,
   },
 };
 
