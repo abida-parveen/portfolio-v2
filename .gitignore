@@ -5,8 +5,8 @@ node_modules/
 .next/
 out/
 
-# # Ignore the helper methods
-# helper/
+# Ignore the helper methods
+helper/
 
-# # Ignore environment variables file
-# .env
+# Ignore environment variables file
+.env

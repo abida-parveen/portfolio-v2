@@ -1,10 +1,10 @@
 import Image from "next/image";
 import React from "react";
 import styles from "./footer.module.css";
-import insta from "../../../assets/icons/Instagram.svg";
-import git from "../../../assets/icons/Github.svg";
-import twitter from "../../../assets/icons/Twitter.svg";
-import linkedin from "../../../assets/icons/Linkedin.svg";
+import insta from "../../../assets/icons/instagram.svg";
+import git from "../../../assets/icons/github.svg";
+import twitter from "../../../assets/icons/twitter.svg";
+import linkedin from "../../../assets/icons/linkedin.svg";
 import Link from "next/link";
 
 const Footer = () => {
