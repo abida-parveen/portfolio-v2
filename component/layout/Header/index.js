@@ -24,7 +24,7 @@ const Header = (props) => {
             Creative front-end developer with more than{" "}
             {new Date().getFullYear() - new Date("2020").getFullYear()}+ years
             of experience in enterprise companies and startups. Proficient in
-            JavaScript, Angular, and React. Passionate about UI/UX
+            JavaScript, Next, and React. Passionate about UI/UX
           </p>
         </div>
         {/* <div className={`${styles.header_rightCol}`}>
